@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/ItaloF532">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloF532&show_icons=true&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloF532&layout=compact&langs_count=24&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloF532&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
 <div style="display: inline_block"><br>
